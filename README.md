@@ -4,4 +4,4 @@
 
 ![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
 
-# Rent or Buy home..
+# Rent or Buy Homes..
