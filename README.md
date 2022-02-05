@@ -2,4 +2,4 @@
 
 # Trinity Real Estate App
 
-<img src="https://i.ibb.co/d2QgBNJ/Screenshot-30.png" alt="Screenshot-30" border="0">
+![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
