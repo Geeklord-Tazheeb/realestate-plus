@@ -2,4 +2,4 @@
 
 # Trinity Real Estate App
 
-![Trinity Real Estate](https://we.tl/t-CqTmrg4dl0)
+![Trinity Real Estate](https://i.ibb.co/d2QgBNJ/Screenshot-30.png | width=100)
